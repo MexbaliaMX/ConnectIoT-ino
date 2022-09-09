@@ -82,7 +82,4 @@ void doTask()
   }else{
     Serial.println("Failed to delete the registry");
   }
-
-  /*String response = contract.getDeviceMetadataParam("my_registry","my_device","timestamp");
-  Serial.println(response);*/
 }
