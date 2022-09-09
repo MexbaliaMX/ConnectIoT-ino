@@ -9,6 +9,12 @@
 
 > ### Library to connect Arduino projects to the ConnectIoT project in the NEAR Protocol Blockchain using the ConnectIoT-API.
 
+## Dependencies
+
+- [WiFiNINA](https://www.arduino.cc/reference/en/libraries/wifinina/)
+- [ArduinoHttpClient](https://www.arduino.cc/reference/en/libraries/arduinohttpclient/)
+- [ArduinoJson](https://www.arduino.cc/reference/en/libraries/arduinojson/)
+
 ## Features
 
 - Create/Delete a registry 
