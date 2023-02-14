@@ -38,4 +38,4 @@ _See [documentation](docs/README.md#connectiot-c-library) for more info and [exa
 
 ## Support
 
-Reach out via [website](https://mexbalia.com/contact/) or send an email to [info@mexbalia.com](https://google.com)
+Reach out via [website](https://mexbalia.com/contact.html) or send an email to [info@mexbalia.com](https://google.com)
